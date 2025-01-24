@@ -69,16 +69,3 @@ All notes are saved automatically in the browser's local storage and will remain
 │       └── tailwind.css
 ```
 
-## 🤝 Contributing
-
-Feel free to contribute by submitting a pull request or reporting any issues. Any contributions, whether it's fixing bugs or improving documentation, are welcome!
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-## 📧 Contact
-
-For any questions or feedback, please reach out:
-
-- **Email**: priyanshumth0808@gmail.com
