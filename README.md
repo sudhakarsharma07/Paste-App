@@ -54,18 +54,39 @@ All notes are saved automatically in the browser's local storage and will remain
 ## 📂 Folder Structure
 
 ```
-├── public
-│   ├── index.html
-├── src
-│   ├── components
-│   │   ├── Note.js
-│   │   ├── NoteList.js
-│   ├── redux
-│   │   ├── store.js
-│   │   ├── noteSlice.js
-│   ├── App.js
-│   ├── index.js
-│   └── styles
-│       └── tailwind.css
+Paste-App-main/
+├── node_modules/
+├── public/
+│   ├── icon.png
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Home.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Paste.jsx
+│   │   └── ViewPaste.jsx
+│   ├── data/
+│   │   └── Navbar.js
+│   ├── redux/
+│   │   ├── pasteSlice.js
+│   │   └── store.js
+│   ├── utils/
+│   │   └── formatDate.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── netlify.toml
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
 ```
 
